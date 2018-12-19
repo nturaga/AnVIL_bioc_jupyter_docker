@@ -4,7 +4,7 @@
 #   docker build jupyter-docker/ -t broadinstitute/leonardo-notebooks:local
 set -e
 
-DOCKER_IMG=nitesh1989/anvil-bioc-jupyter:local
+DOCKER_IMG=nitesh1989/anvil-bioc-jupyter:latest
 CONTAINER=jupyter-server
 
 start () {
