@@ -44,7 +44,9 @@ Warning: may be incomplete! Consult the Dockerfile for the source of truth.
    * googleCloudStorageR
    * tidyverse
    * DataBiosphere/Ronaldo
-    
+* Bioconductor
+  * BiocManager
+
 ## Extensions
 * jupyter_localize_extension.py
    * Server-side extension to provide the `/localize` endpoint to localize/delocalize files between
